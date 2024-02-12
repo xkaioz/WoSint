@@ -1,6 +1,6 @@
 colorama
 requests
-beautifulsoup4
+bs4
 passlib
 dnspython
 python-whois
