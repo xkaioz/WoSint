@@ -49,9 +49,7 @@ Once it done, execute the script
 
 ```
 python wosint.py
-
 ```
-
 
 <hr>
 
