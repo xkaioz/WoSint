@@ -1,0 +1,9 @@
+
++-----------------------------------------------+
+- Reverse DNS Lookup for: google.com - 
+/\ IP (IPv4) : 142.250.179.174         
+\/ ISP       : Google LLC              
+/\ Country   : The Netherlands         
+\/ City      : Amsterdam               
++-----------------------------------------------+
+        

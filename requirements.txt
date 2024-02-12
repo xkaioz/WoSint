@@ -1,0 +1,7 @@
+colorama
+requests
+beautifulsoup4
+hashlib
+passlib
+dnspython
+python-whois
